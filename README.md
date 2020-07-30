@@ -1,6 +1,7 @@
 ## Beginner’s quick start to learn React.js
-Article published by me at:
-My Blog: https://learnbyinsight.com/2020/07/09/beginners-quick-start-to-learn-react-js/
+
+Article published by me at:<br />
+My Blog: https://learnbyinsight.com/2020/07/09/beginners-quick-start-to-learn-react-js/<br />
 CodeProject: https://www.codeproject.com/Articles/5273225/Beginners-Quick-Start-to-Learn-React-js
 
 ## Sample app showcases
