@@ -3,6 +3,7 @@
 Article published by me at:<br />
 My Blog: https://learnbyinsight.com/2020/07/09/beginners-quick-start-to-learn-react-js/<br />
 CodeProject: https://www.codeproject.com/Articles/5273225/Beginners-Quick-Start-to-Learn-React-js
+<br>(It was awarded 2nd best article of the month at CodeProject)
 
 ## Sample app showcases
 ![demo-app-gif](https://github.com/samewara/demo-react-app/blob/master/demo-app.gif)
